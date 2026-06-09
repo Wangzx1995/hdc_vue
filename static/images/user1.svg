@@ -1,0 +1,103 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="375px" height="140px" viewBox="0 0 375 140" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>编组 3</title>
+    <g id="2.9.0" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="删除用户" transform="translate(-737.000000, -304.000000)">
+            <g id="编组-3" transform="translate(737.000000, 304.000000)">
+                <path id="直线-7" d="M277,47 L286,51.5 L277,56 L277,52 L166.972457,52.0007074 C166.731049,54.1813698 164.931433,55.8922434 162.711836,55.995102 L162.5,56 C160.014719,56 158,53.9852814 158,51.5 C158,49.0147186 160.014719,47 162.5,47 C164.816379,47 166.723981,48.7501788 166.972568,51.000297 L277,51 L277,47 Z" fill="#EB5F00" fill-rule="nonzero"></path>
+                <text id="删除B用户" font-family="PingFangSC-Regular, PingFang SC" font-size="12" font-weight="normal" line-spacing="22" fill="#000000" fill-opacity="0.65">
+                    <tspan x="194" y="38">删除B用户</tspan>
+                </text>
+                <g id="编组" transform="translate(76.000000, 0.000000)">
+                    <circle id="椭圆形" fill="#7BA1CC" cx="13" cy="13" r="13"></circle>
+                    <text id="A" font-family="PingFangSC-Regular, PingFang SC" font-size="14" font-weight="normal" line-spacing="22" fill="#FFFFFF">
+                        <tspan x="8" y="17">A</tspan>
+                    </text>
+                </g>
+                <g id="编组" transform="translate(38.000000, 38.000000)">
+                    <circle id="椭圆形" fill="#EB5F00" cx="13" cy="13" r="13"></circle>
+                    <text id="B" font-family="PingFangSC-Regular, PingFang SC" font-size="14" font-weight="normal" line-spacing="22" fill="#FFFFFF">
+                        <tspan x="8" y="17">B</tspan>
+                    </text>
+                </g>
+                <g id="编组" transform="translate(57.000000, 76.000000)">
+                    <circle id="椭圆形" fill="#7BA1CC" cx="13" cy="13" r="13"></circle>
+                    <text id="E" font-family="PingFangSC-Regular, PingFang SC" font-size="14" font-weight="normal" line-spacing="22" fill="#FFFFFF">
+                        <tspan x="8" y="17">E</tspan>
+                    </text>
+                </g>
+                <g id="编组" transform="translate(19.000000, 76.000000)">
+                    <circle id="椭圆形" fill="#7BA1CC" cx="13" cy="13" r="13"></circle>
+                    <text id="D" font-family="PingFangSC-Regular, PingFang SC" font-size="14" font-weight="normal" line-spacing="22" fill="#FFFFFF">
+                        <tspan x="8" y="17">D</tspan>
+                    </text>
+                </g>
+                <g id="编组" transform="translate(95.000000, 76.000000)">
+                    <circle id="椭圆形" fill="#7BA1CC" cx="13" cy="13" r="13"></circle>
+                    <text id="E" font-family="PingFangSC-Regular, PingFang SC" font-size="14" font-weight="normal" line-spacing="22" fill="#FFFFFF">
+                        <tspan x="8" y="17">E</tspan>
+                    </text>
+                </g>
+                <g id="编组" transform="translate(133.000000, 76.000000)">
+                    <circle id="椭圆形" fill="#7BA1CC" cx="13" cy="13" r="13"></circle>
+                    <text id="F" font-family="PingFangSC-Regular, PingFang SC" font-size="14" font-weight="normal" line-spacing="22" fill="#FFFFFF">
+                        <tspan x="8" y="17">F</tspan>
+                    </text>
+                </g>
+                <g id="编组" transform="translate(38.000000, 114.000000)">
+                    <circle id="椭圆形" fill="#7BA1CC" cx="13" cy="13" r="13"></circle>
+                    <text id="H" font-family="PingFangSC-Regular, PingFang SC" font-size="14" font-weight="normal" line-spacing="22" fill="#FFFFFF">
+                        <tspan x="8" y="17">H</tspan>
+                    </text>
+                </g>
+                <g id="编组" transform="translate(0.000000, 114.000000)">
+                    <circle id="椭圆形" fill="#7BA1CC" cx="13" cy="13" r="13"></circle>
+                    <text id="G" font-family="PingFangSC-Regular, PingFang SC" font-size="14" font-weight="normal" line-spacing="22" fill="#FFFFFF">
+                        <tspan x="8" y="17">G</tspan>
+                    </text>
+                </g>
+                <g id="编组" transform="translate(114.000000, 38.000000)">
+                    <circle id="椭圆形" fill="#7BA1CC" cx="13" cy="13" r="13"></circle>
+                    <text id="C" font-family="PingFangSC-Regular, PingFang SC" font-size="14" font-weight="normal" line-spacing="22" fill="#FFFFFF">
+                        <tspan x="8" y="17">C</tspan>
+                    </text>
+                </g>
+                <line x1="36.5" y1="61.5" x2="43.5" y2="77.5" id="直线-6" stroke="#979797" stroke-linecap="square" transform="translate(40.000000, 69.500000) scale(-1, 1) translate(-40.000000, -69.500000) "></line>
+                <line x1="58.5" y1="61.5" x2="65.5" y2="77.5" id="直线-6" stroke="#979797" stroke-linecap="square"></line>
+                <line x1="112.5" y1="61.5" x2="119.5" y2="77.5" id="直线-6" stroke="#979797" stroke-linecap="square" transform="translate(116.000000, 69.500000) scale(-1, 1) translate(-116.000000, -69.500000) "></line>
+                <line x1="134.5" y1="61.5" x2="141.5" y2="77.5" id="直线-6" stroke="#979797" stroke-linecap="square"></line>
+                <line x1="17.5" y1="99.5" x2="24.5" y2="115.5" id="直线-6" stroke="#979797" stroke-linecap="square" transform="translate(21.000000, 107.500000) scale(-1, 1) translate(-21.000000, -107.500000) "></line>
+                <line x1="39.5" y1="99.5" x2="46.5" y2="115.5" id="直线-6" stroke="#979797" stroke-linecap="square"></line>
+                <line x1="60.5" y1="22.5" x2="80.5" y2="41.5" id="直线-6" stroke="#979797" stroke-linecap="square" transform="translate(70.500000, 32.000000) scale(-1, 1) translate(-70.500000, -32.000000) "></line>
+                <line x1="98.5" y1="22.5" x2="118.5" y2="41.5" id="直线-6" stroke="#979797" stroke-linecap="square"></line>
+                <g id="编组" transform="translate(292.000000, 0.000000)">
+                    <circle id="椭圆形" fill="#7BA1CC" cx="13" cy="13" r="13"></circle>
+                    <text id="A" font-family="PingFangSC-Regular, PingFang SC" font-size="14" font-weight="normal" line-spacing="22" fill="#FFFFFF">
+                        <tspan x="8" y="17">A</tspan>
+                    </text>
+                </g>
+                <g id="编组" transform="translate(311.000000, 76.000000)">
+                    <circle id="椭圆形" fill="#7BA1CC" cx="13" cy="13" r="13"></circle>
+                    <text id="E" font-family="PingFangSC-Regular, PingFang SC" font-size="14" font-weight="normal" line-spacing="22" fill="#FFFFFF">
+                        <tspan x="8" y="17">E</tspan>
+                    </text>
+                </g>
+                <g id="编组" transform="translate(349.000000, 76.000000)">
+                    <circle id="椭圆形" fill="#7BA1CC" cx="13" cy="13" r="13"></circle>
+                    <text id="F" font-family="PingFangSC-Regular, PingFang SC" font-size="14" font-weight="normal" line-spacing="22" fill="#FFFFFF">
+                        <tspan x="8" y="17">F</tspan>
+                    </text>
+                </g>
+                <g id="编组" transform="translate(330.000000, 38.000000)">
+                    <circle id="椭圆形" fill="#7BA1CC" cx="13" cy="13" r="13"></circle>
+                    <text id="C" font-family="PingFangSC-Regular, PingFang SC" font-size="14" font-weight="normal" line-spacing="22" fill="#FFFFFF">
+                        <tspan x="8" y="17">C</tspan>
+                    </text>
+                </g>
+                <line x1="328.5" y1="61.5" x2="335.5" y2="77.5" id="直线-6" stroke="#979797" stroke-linecap="square" transform="translate(332.000000, 69.500000) scale(-1, 1) translate(-332.000000, -69.500000) "></line>
+                <line x1="350.5" y1="61.5" x2="357.5" y2="77.5" id="直线-6" stroke="#979797" stroke-linecap="square"></line>
+                <line x1="314.5" y1="22.5" x2="334.5" y2="41.5" id="直线-6" stroke="#979797" stroke-linecap="square"></line>
+            </g>
+        </g>
+    </g>
+</svg>

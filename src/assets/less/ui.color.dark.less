@@ -1,0 +1,49 @@
+.dark{
+  .white,
+  .box{
+    background-color: lighten( @dark-color, @color-dk-percent );
+  }
+  &.app{
+    background-color: @dark-color;
+  }
+}
+.black{
+  .white,
+  .box{
+    background-color: lighten( @black-color, @color-dk-percent );
+  }
+  &.app{
+    background-color: @black-color;
+  }
+}
+.grey{
+  .white,
+  .box{
+    background-color: lighten( @grey-color, @color-dk-percent );;
+  }
+  &.app{
+    background-color: @grey-color;
+  }
+}
+
+.dark,
+.black,
+.grey{
+  .form-control{
+    background: transparent;
+    background-color: rgba(255, 255, 255, 0.1);
+    color: inherit;
+    &:focus{
+      border-color: rgba(255, 255, 255, 0.125);
+    }
+  }
+  .input-group-btn{
+    .btn{
+      background-color: rgba(255, 255, 255, 0.1) !important;
+      color: inherit !important;
+    }
+  }
+  .list-group{
+    background-color: transparent;
+  }
+}

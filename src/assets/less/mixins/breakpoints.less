@@ -1,0 +1,51 @@
+// =============================================
+// Breakpoints
+// =============================================
+
+@bp-xsmall: 420px;
+@bp-small: 599px;
+@bp-medium: 764px;
+@bp-large: 989px;
+@bp-xlarge: 1199px;
+
+.bp(@feature, @value, @content) {
+  //@media only screen and (@feature : @value) {
+    @content();
+  //}
+}
+
+// =============================================
+// Easier Responsive Mixins
+// =============================================
+
+.breakpoint-extra-small(@content) {
+  .bp(max-width, @bp-xsmall, @content);
+}
+
+.breakpoint-small(@content) {
+  .bp(max-width, @bp-small, @content);
+}
+
+.breakpoint-medium(@content) {
+  .bp(max-width, @bp-medium, @content);
+}
+
+.breakpoint-large(@content) {
+  .bp(max-width, @bp-large, @content);
+}
+
+.breakpoint-extra-large(@content) {
+  .bp(max-width, @bp-xlarge, @content);
+}
+
+.breakpoint-medium-or-larger(@content) {
+  .bp(min-width, @bp-medium + 1, @content);
+}
+
+.breakpoint-large-or-larger(@content) {
+  .bp(min-width, @bp-large + 1, @content);
+}
+
+.breakpoint-xl-or-larger(@content) {
+  .bp(min-width, @bp-xlarge + 1, @content);
+}

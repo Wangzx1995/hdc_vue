@@ -1,0 +1,101 @@
+.color-variant(@bg, @color) {
+  color: @color;
+  background-color: @bg;
+  .lt{
+		background-color: lighten(@bg, @color-percent);
+	}
+  .dk{
+		background-color: darken(@bg, @color-percent);
+	}
+  .bg{
+    background-color: @bg;
+  }
+}
+
+.lter{
+  background-color: rgba(255,255,255,0.035);
+}
+
+.dker{
+  background-color: rgba(0,0,0,0.035);
+}
+
+.light {
+  background-color: @light-color;
+}
+
+.white {
+  background-color: #fff;
+}
+
+.primary {
+	.color-variant(@primary-color, @full-white);
+}
+
+.accent {
+  .color-variant(@accent-color, @full-black);
+}
+
+.warn {
+  .color-variant(@warn-color, @full-white);
+}
+
+.warning {
+  .color-variant(@warning-color, @full-white);
+}
+
+.success {
+	.color-variant(@success-color, @full-white);
+}
+
+.info {
+  .color-variant(@info-color, @full-white);
+}
+
+.error {
+	.color-variant(@error-color, @full-white);
+}
+
+.white-overlay{
+  background-color: rgba(255, 255, 255, 0.85);
+}
+
+.black-overlay{
+  background-color: rgba(0, 0, 0, 0.85);
+}
+
+.dark{
+  background-color: @menu-dark-title;
+}
+
+.bg-auto{
+  &:before{
+    content: "";
+    position: absolute;
+    width: inherit;
+    top: 0;
+    bottom: 0;
+    background-color: inherit;
+    border: inherit;
+  }
+  &.b-l:before{
+    margin-left: -1px;
+  }
+  &.b-r:before{
+    margin-right: -1px;
+  }
+}
+
+.bg-clip{
+  background-clip: padding-box;
+}
+
+.no-bg{
+  background-color: transparent !important;
+}
+
+@media (max-width: 767px) {
+  .no-bg-xs{
+     background-color: transparent;
+  }
+}

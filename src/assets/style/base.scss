@@ -1,0 +1,86 @@
+@import "normalize.scss";
+
+body {
+    margin: 0;
+    padding: 0;
+}
+.app {
+    height: 100%;
+    position: relative;
+}
+@media print {
+    body {
+        display: none;
+    }
+}
+* {
+    box-sizing: border-box;
+}
+ul li {
+    list-style: none;
+}
+
+html,
+body,
+.app {
+    font-family: "Microsoft YaHei";
+    height: 100%;
+    font-size: 14px;
+    color: #4c4c4c;
+}
+
+a {
+    text-decoration-line: none;
+}
+
+.hide {
+    display: none;
+}
+// input
+.el-input.is-disabled .el-input__inner {
+    background-color: #f9f9f9;
+    border-color: #e5e5e5;
+    color: #7d7d7d;
+}
+
+// alert
+.el-alert__content {
+    display: inline-block;
+}
+// buttom
+.el-button {
+    font-weight: normal;
+}
+
+// table
+.table-operate {
+    color: #217fe2;
+    cursor: pointer;
+    &:hover {
+        color: #ff9900;
+    }
+}
+
+// 表格缺省图
+.el-table__empty-block {
+    min-height: 300px;
+    height: 300px !important;
+    overflow: hidden;
+    .el-table__empty-text {
+        display: inline-block;
+        width: 350px;
+        height: 185px;
+        background: url("../img/empty.png");
+        background-repeat: no-repeat;
+        background-position: center 0px;
+        background-size: 70%;
+        &:before {
+            content: "";
+            display: block;
+            width: 100%;
+            text-align: center;
+            line-height: 375px;
+            color: rgb(206, 206, 206);
+        }
+    }
+}

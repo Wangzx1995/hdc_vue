@@ -1,0 +1,47 @@
+<html>
+<head>
+    <script type="text/javascript">
+        var url = window.location.href;
+
+        function getUrlParams(url) {
+            // let urlStr = url.split('?')[1]
+            // const urlSearchParams = new URLSearchParams(urlStr)
+            // const result = Object.fromEntries(urlSearchParams.entries())
+            // return result
+            const regex = /[?&]([^=#]+)=([^&#]*)/g;
+            let params = {};
+            let match;
+            while ((match = regex.exec(url))) {
+                params[decodeURIComponent(match[1])] = decodeURIComponent(match[2]);
+            }
+            return params;
+        }
+
+        var devToken = getUrlParams(url).devToken;
+
+        // 将devToken写入cookies
+        // alert(devToken);
+        document.cookie = "devToken = " + devToken;
+        // alert("cookie set success !");
+        // alert(document.cookie);
+
+        // 写入sessionStorage
+        var deviceInfo = {
+            mode: 'oms',
+            language: 'zh',
+            needLogin: 'false',
+            videoMode: 'image'
+        };
+        sessionStorage.setItem("deviceInfo", JSON.stringify(deviceInfo));
+        sessionStorage.setItem("omsToken",getUrlParams(url).omsToken)
+        // alert("sessionStorage set success !");
+        // alert(sessionStorage.getItem("deviceInfo"));
+
+        // 转到访问页面
+        // window.location.href = "/doc/page/config.asp?nohead=true&nofoot=true";
+        window.location.href = "/doc/dispatch/dispatchConfig.asp";
+    </script>
+</head>
+<body>
+</body>
+</html>

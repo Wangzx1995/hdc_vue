@@ -1,0 +1,21 @@
+{
+    "editor.tabSize": 4,
+    "workbench.colorCustomizations": {},
+    "editor.detectIndentation": false,
+    "eslint.codeAction.disableRuleComment": {
+        "enable": false
+    },
+    "eslint.codeAction.showDocumentation": {
+        "enable": false
+    },
+    "editor.fontLigatures": null,
+    "eslint.probe": [
+        "javascriptreact",
+        "typescript",
+        "typescriptreact",
+        "html",
+        "vue",
+        "markdown"
+    ],
+    "workbench.editorAssociations": {}
+}

@@ -1,0 +1,41 @@
+{
+  "_from": "@hui-pro/plan",
+  "_id": "@hui-pro/plan@2.0.0-beta.2",
+  "_inBundle": false,
+  "_integrity": "sha1-pcMdd6DlkF/AgDFZxPH9GRhgGe8=",
+  "_location": "/@hui-pro/plan",
+  "_phantomChildren": {},
+  "_requested": {
+    "type": "tag",
+    "registry": true,
+    "raw": "@hui-pro/plan",
+    "name": "@hui-pro/plan",
+    "escapedName": "@hui-pro%2fplan",
+    "scope": "@hui-pro",
+    "rawSpec": "",
+    "saveSpec": null,
+    "fetchSpec": "latest"
+  },
+  "_requiredBy": [
+    "#USER",
+    "/"
+  ],
+  "_resolved": "http://af.hikvision.com.cn:80/artifactory/api/npm/npm-isms/@hui-pro/plan/-/@hui-pro/plan-2.0.0-beta.2.tgz",
+  "_shasum": "a5c31d77a0e5905fc0803159c4f1fd19186019ef",
+  "_spec": "@hui-pro/plan",
+  "_where": "E:\\oms",
+  "author": {
+    "name": "chenguanbin"
+  },
+  "bundleDependencies": false,
+  "dependencies": {
+    "@hui-pro/theme": "^2.0.0-beta.1",
+    "@hui-pro/utils": "^2.0.0-beta.2"
+  },
+  "deprecated": false,
+  "description": "",
+  "gitHead": "98cb971033897ecc2fa165b4441a485ebf021613",
+  "main": "index.js",
+  "name": "@hui-pro/plan",
+  "version": "2.0.0-beta.2"
+}

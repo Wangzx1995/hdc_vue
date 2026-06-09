@@ -1,0 +1,118 @@
+@import '~@hui-pro/theme/index.scss';
+
+@include b(tree-select) {
+  position: relative;
+  width: 100%;
+  min-height: 32px;
+  padding: 0 32px 0 4px;
+  border: 1px solid $--color-neutral-4;
+  border-radius: 2px;
+  cursor: pointer;
+  font-size: 14px;
+  line-height: 24px;
+
+  &:hover {
+    border-color: $--border-color-hov;
+  }
+  &:active {
+    border-color: $--border-color-focus;
+  }
+
+  @include when(disabled) {
+    border-color: $--color-neutral-7;
+    background: $--color-neutral-9;
+    color: $--color-neutral-5;
+    cursor: not-allowed;
+    .placeholder {
+      color: $--color-neutral-5;
+    }
+  }
+
+  @include e(tag-wrap) {
+    .el-tag {
+      padding-right: 6px;
+    }
+    @include when(nowrap) {
+      overflow: hidden;
+      white-space: nowrap;
+    }
+  }
+
+  span {
+    display: inline-block;
+    &.selected-text,
+    &.placeholder {
+      overflow: hidden;
+      width: 100%;
+      line-height: 30px;
+      text-overflow: ellipsis;
+      white-space: nowrap;
+    }
+    &.placeholder {
+      position: absolute;
+      top: 0;
+      left: 8px;
+      color: $--color-neutral-5;
+    }
+    &.selected-text {
+      margin-left: 4px;
+      float: left;
+    }
+  }
+  @include e(input-icon) {
+    position: absolute;
+    top: 3px;
+    right: 4px;
+    width: 24px;
+    height: 24px;
+    font-size: 24px;
+    &.open {
+      transform: rotate(180deg);
+    }
+    &.el-icon-arrow-down_sm {
+      color: #4a4a4a;
+    }
+  }
+  & .el-tag {
+    height: 24px;
+    box-sizing: border-box;
+    padding: 0 24px 0 7px;
+    margin: 3px 4px 3px 0;
+    border-radius: 2px;
+    color: #333;
+    cursor: pointer;
+    line-height: 24px;
+  }
+}
+
+@include b(tree-select-content) {
+  margin-top: 8px;
+  .el-scrollbar {
+    height: calc(100% - 200px);
+  }
+}
+
+@include b(tree-select-popover) {
+  // &.el-popover {
+  //   padding: 0 8px;
+  //   margin-top: 4px !important;
+  //   margin-bottom: 4px !important;
+  // }
+
+  // .h-tree-select__search {
+  //   margin-top: 8px;
+  // }
+  position: absolute;
+  z-index: 1001;
+  // max-height: 266px;
+  box-sizing: border-box;
+  padding: 8px;
+  margin: 4px 0;
+  background-color: #fff;
+  border-radius: 2px;
+  box-shadow: 0 0 2px 0 rgba(0, 0, 0, 0.2), 0 2px 4px 0 rgba(0, 0, 0, 0.12);
+
+  .el-tree-scrollbar__wrap {
+    max-height: 218px;
+  }
+}

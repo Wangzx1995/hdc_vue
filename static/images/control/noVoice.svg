@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="19px" height="16px" viewBox="0 0 19 16" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>通用图标/声音关_白色</title>
+    <defs>
+        <filter color-interpolation-filters="auto" id="filter-1">
+            <feColorMatrix in="SourceGraphic" type="matrix" values="0 0 0 0 1.000000 0 0 0 0 1.000000 0 0 0 0 1.000000 0 0 0 0.900000 0"></feColorMatrix>
+        </filter>
+    </defs>
+    <g id="2.7.0" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="画板" transform="translate(-1077.000000, -2801.000000)">
+            <g id="编组" transform="translate(1074.000000, 2797.000000)">
+                <g transform="translate(3.000000, 4.000000)">
+                    <g filter="url(#filter-1)" id="声音开">
+                        <g transform="translate(0.000000, -0.000000)">
+                            <path d="M9.46266405,0 C9.28196912,0 9.0918302,0.0647552906 8.93841792,0.19469614 L4.41957556,4.19704639 L1.24723575,4.19704639 C0.560343168,4.19704639 0.00902425325,4.76220303 0.00902425325,5.45708538 L0,10.9417079 C0,11.6365903 0.560343168,12.2107825 1.24723575,12.2107825 L4.46469682,12.2107825 L8.92036941,15.8054541 C9.06668817,15.9326724 9.25276179,16.0017006 9.44461555,15.9999682 C9.87798957,15.9999682 10.2758962,15.6572269 10.2758962,15.1570407 L10.2939447,0.843324718 C10.3031788,0.342708233 9.89645781,0 9.46266405,0 L9.46266405,0 Z M9.04670895,14.2952144 L5.2239933,11.210195 C5.00739711,11.0361547 4.74011347,10.9416172 4.46490669,10.9417079 L1.22918724,10.9417079 L1.24744562,5.46612101 L4.41957556,5.45708538 C4.71800551,5.45708538 4.99796723,5.34564605 5.2239933,5.15116504 L9.06496731,1.75097446 L9.04670895,14.2952144 Z" id="形状" fill="#151515" fill-rule="nonzero"></path>
+                        </g>
+                    </g>
+                    <line x1="12.6" y1="5.80740741" x2="17.4" y2="10.7851852" id="直线" stroke-opacity="0.9" stroke="#FFFFFF" stroke-width="1.5" fill-opacity="0.9" fill="#FFFFFF" stroke-linecap="round"></line>
+                    <line x1="12.5111111" y1="5.8962963" x2="17.4888889" y2="10.6962963" id="直线" stroke-opacity="0.9" stroke="#FFFFFF" stroke-width="1.5" fill-opacity="0.9" fill="#FFFFFF" stroke-linecap="round" transform="translate(15.000000, 8.296296) rotate(-90.000000) translate(-15.000000, -8.296296) "></line>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

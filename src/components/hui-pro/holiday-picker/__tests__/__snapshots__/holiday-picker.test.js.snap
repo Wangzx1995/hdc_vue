@@ -1,0 +1,275 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`HolidayPicker 节假日设置控件 snapshot test 1`] = `
+"<div class=\\"h-perpetual-calendar\\"><div class=\\"year-month-operate-bar\\"><div class=\\"h-year-month-selector\\"><button type=\\"button\\" title=\\"\\" class=\\"el-button prev-year el-button--default is-icon\\"><!----><i class=\\"el-icon-d-arrow-left\\"></i><!----><!----></button> <button type=\\"button\\" title=\\"\\" class=\\"el-button el-button--default is-icon\\"><!----><i class=\\"el-icon-arrow-left\\"></i><!----><!----></button> <span class=\\"year-month-value\\"><span class=\\"year-view\\"><div class=\\"el-date-editor picker year-picker important el-input el-input--suffix el-date-editor--year\\"><!----><!----><!----><input autocomplete=\\"off\\" readonly=\\"readonly\\" type=\\"text\\" name=\\"\\" rows=\\"2\\" tipsmaxwidth=\\"480\\" tipsplacement=\\"top-start\\" tipsoffset=\\"0\\" tipstrigger=\\"focus\\" tipsclass=\\"\\" title=\\"2020\\" class=\\"el-input__inner\\"><!----><span class=\\"el-input__suffix\\"><span class=\\"el-input__suffix-inner\\"><i class=\\"el-input__icon el-date-editor__icon h-icon-calendar\\"></i><!----></span></span><!----><!----></div>
+      2020年
+    </span> <span class=\\"month-view\\"><div class=\\"el-date-editor picker month-picker important el-input el-input--suffix el-date-editor--month\\"><!----><!----><!----><input autocomplete=\\"off\\" readonly=\\"readonly\\" type=\\"text\\" name=\\"\\" rows=\\"2\\" tipsmaxwidth=\\"480\\" tipsplacement=\\"top-start\\" tipsoffset=\\"0\\" tipstrigger=\\"focus\\" tipsclass=\\"\\" title=\\"2020/08\\" class=\\"el-input__inner\\"><!----><span class=\\"el-input__suffix\\"><span class=\\"el-input__suffix-inner\\"><i class=\\"el-input__icon el-date-editor__icon h-icon-calendar\\"></i><!----></span></span><!----><!----></div>
+      8月
+    </span></span> <button type=\\"button\\" title=\\"\\" class=\\"el-button el-button--default is-icon\\"><!----><i class=\\"el-icon-arrow-right\\"></i><!----><!----></button> <button type=\\"button\\" title=\\"\\" class=\\"el-button next-year el-button--default is-icon\\"><!----><i class=\\"el-icon-d-arrow-right\\"></i><!----><!----></button></div> <div class=\\"return-current-month\\" style=\\"display: none;\\"><i class=\\"h-icon-arrow_left\\"></i> <span>返回本月</span></div></div> <table class=\\"calendar-main-content\\"><tbody><tr class=\\"week-wrapper\\"><th class=\\"week-day\\">
+          星期日
+        </th><th class=\\"week-day\\">
+          星期一
+        </th><th class=\\"week-day\\">
+          星期二
+        </th><th class=\\"week-day\\">
+          星期三
+        </th><th class=\\"week-day\\">
+          星期四
+        </th><th class=\\"week-day\\">
+          星期五
+        </th><th class=\\"week-day\\">
+          星期六
+        </th></tr> <tr class=\\"date-wrapper\\"><td class=\\"date-item\\"><div class=\\"date-item-wrapper notCurrentMonth\\" style=\\"height: 111px;\\"><div class=\\"date-info\\"><span class=\\"lunar-date\\">
+                  初六
+                </span> <span class=\\"solar-date\\">
+                  26
+                </span></div> <div class=\\"festival-info\\"><span class=\\"festival\\">
+                  
+                </span></div> <div class=\\"status\\"><span class=\\"h-icon-add\\"></span></div></div></td><td class=\\"date-item\\"><div class=\\"date-item-wrapper notCurrentMonth\\" style=\\"height: 111px;\\"><div class=\\"date-info\\"><span class=\\"lunar-date\\">
+                  初七
+                </span> <span class=\\"solar-date\\">
+                  27
+                </span></div> <div class=\\"festival-info\\"><span class=\\"festival\\">
+                  
+                </span></div> <div class=\\"status\\"><span class=\\"h-icon-add\\"></span></div></div></td><td class=\\"date-item\\"><div class=\\"date-item-wrapper notCurrentMonth\\" style=\\"height: 111px;\\"><div class=\\"date-info\\"><span class=\\"lunar-date\\">
+                  初八
+                </span> <span class=\\"solar-date\\">
+                  28
+                </span></div> <div class=\\"festival-info\\"><span class=\\"festival\\">
+                  
+                </span></div> <div class=\\"status\\"><span class=\\"h-icon-add\\"></span></div></div></td><td class=\\"date-item\\"><div class=\\"date-item-wrapper notCurrentMonth\\" style=\\"height: 111px;\\"><div class=\\"date-info\\"><span class=\\"lunar-date\\">
+                  初九
+                </span> <span class=\\"solar-date\\">
+                  29
+                </span></div> <div class=\\"festival-info\\"><span class=\\"festival\\">
+                  
+                </span></div> <div class=\\"status\\"><span class=\\"h-icon-add\\"></span></div></div></td><td class=\\"date-item\\"><div class=\\"date-item-wrapper notCurrentMonth\\" style=\\"height: 111px;\\"><div class=\\"date-info\\"><span class=\\"lunar-date\\">
+                  初十
+                </span> <span class=\\"solar-date\\">
+                  30
+                </span></div> <div class=\\"festival-info\\"><span class=\\"festival\\">
+                  
+                </span></div> <div class=\\"status\\"><span class=\\"h-icon-add\\"></span></div></div></td><td class=\\"date-item\\"><div class=\\"date-item-wrapper notCurrentMonth\\" style=\\"height: 111px;\\"><div class=\\"date-info\\"><span class=\\"lunar-date\\">
+                  十一
+                </span> <span class=\\"solar-date\\">
+                  31
+                </span></div> <div class=\\"festival-info\\"><span class=\\"festival\\">
+                  
+                </span></div> <div class=\\"status\\"><span class=\\"h-icon-add\\"></span></div></div></td><td class=\\"date-item\\"><div class=\\"date-item-wrapper\\" style=\\"height: 111px;\\"><div class=\\"date-info\\"><span class=\\"lunar-date\\">
+                  十二
+                </span> <span class=\\"solar-date\\">
+                  1
+                </span></div> <div class=\\"festival-info\\"><span class=\\"festival\\">
+                  建军节
+                </span></div> <div class=\\"status\\"><span class=\\"h-icon-add\\"></span></div></div></td></tr><tr class=\\"date-wrapper\\"><td class=\\"date-item\\"><div class=\\"date-item-wrapper\\" style=\\"height: 111px;\\"><div class=\\"date-info\\"><span class=\\"lunar-date\\">
+                  十三
+                </span> <span class=\\"solar-date\\">
+                  2
+                </span></div> <div class=\\"festival-info\\"><span class=\\"festival\\">
+                  
+                </span></div> <div class=\\"status\\"><span class=\\"h-icon-add\\"></span></div></div></td><td class=\\"date-item\\"><div class=\\"date-item-wrapper\\" style=\\"height: 111px;\\"><div class=\\"date-info\\"><span class=\\"lunar-date\\">
+                  十四
+                </span> <span class=\\"solar-date\\">
+                  3
+                </span></div> <div class=\\"festival-info\\"><span class=\\"festival\\">
+                  
+                </span></div> <div class=\\"status\\"><span class=\\"h-icon-add\\"></span></div></div></td><td class=\\"date-item\\"><div class=\\"date-item-wrapper\\" style=\\"height: 111px;\\"><div class=\\"date-info\\"><span class=\\"lunar-date\\">
+                  十五
+                </span> <span class=\\"solar-date\\">
+                  4
+                </span></div> <div class=\\"festival-info\\"><span class=\\"festival\\">
+                  
+                </span></div> <div class=\\"status\\"><span class=\\"h-icon-add\\"></span></div></div></td><td class=\\"date-item\\"><div class=\\"date-item-wrapper\\" style=\\"height: 111px;\\"><div class=\\"date-info\\"><span class=\\"lunar-date\\">
+                  十六
+                </span> <span class=\\"solar-date\\">
+                  5
+                </span></div> <div class=\\"festival-info\\"><span class=\\"festival\\">
+                  
+                </span></div> <div class=\\"status\\"><span class=\\"h-icon-add\\"></span></div></div></td><td class=\\"date-item\\"><div class=\\"date-item-wrapper\\" style=\\"height: 111px;\\"><div class=\\"date-info\\"><span class=\\"lunar-date\\">
+                  十七
+                </span> <span class=\\"solar-date\\">
+                  6
+                </span></div> <div class=\\"festival-info\\"><span class=\\"festival\\">
+                  
+                </span></div> <div class=\\"status\\"><span class=\\"h-icon-add\\"></span></div></div></td><td class=\\"date-item\\"><div class=\\"date-item-wrapper\\" style=\\"height: 111px;\\"><div class=\\"date-info\\"><span class=\\"lunar-date\\">
+                  十八
+                </span> <span class=\\"solar-date\\">
+                  7
+                </span></div> <div class=\\"festival-info\\"><span class=\\"festival\\">
+                  立秋
+                </span></div> <div class=\\"status\\"><span class=\\"h-icon-add\\"></span></div></div></td><td class=\\"date-item\\"><div class=\\"date-item-wrapper\\" style=\\"height: 111px;\\"><div class=\\"date-info\\"><span class=\\"lunar-date\\">
+                  十九
+                </span> <span class=\\"solar-date\\">
+                  8
+                </span></div> <div class=\\"festival-info\\"><span class=\\"festival\\">
+                  
+                </span></div> <div class=\\"status\\"><span class=\\"h-icon-add\\"></span></div></div></td></tr><tr class=\\"date-wrapper\\"><td class=\\"date-item\\"><div class=\\"date-item-wrapper\\" style=\\"height: 111px;\\"><div class=\\"date-info\\"><span class=\\"lunar-date\\">
+                  二十
+                </span> <span class=\\"solar-date\\">
+                  9
+                </span></div> <div class=\\"festival-info\\"><span class=\\"festival\\">
+                  
+                </span></div> <div class=\\"status\\"><span class=\\"h-icon-add\\"></span></div></div></td><td class=\\"date-item\\"><div class=\\"date-item-wrapper\\" style=\\"height: 111px;\\"><div class=\\"date-info\\"><span class=\\"lunar-date\\">
+                  廿一
+                </span> <span class=\\"solar-date\\">
+                  10
+                </span></div> <div class=\\"festival-info\\"><span class=\\"festival\\">
+                  
+                </span></div> <div class=\\"status\\"><span class=\\"h-icon-add\\"></span></div></div></td><td class=\\"date-item\\"><div class=\\"date-item-wrapper\\" style=\\"height: 111px;\\"><div class=\\"date-info\\"><span class=\\"lunar-date\\">
+                  廿二
+                </span> <span class=\\"solar-date\\">
+                  11
+                </span></div> <div class=\\"festival-info\\"><span class=\\"festival\\">
+                  
+                </span></div> <div class=\\"status\\"><span class=\\"h-icon-add\\"></span></div></div></td><td class=\\"date-item\\"><div class=\\"date-item-wrapper\\" style=\\"height: 111px;\\"><div class=\\"date-info\\"><span class=\\"lunar-date\\">
+                  廿三
+                </span> <span class=\\"solar-date\\">
+                  12
+                </span></div> <div class=\\"festival-info\\"><span class=\\"festival\\">
+                  
+                </span></div> <div class=\\"status\\"><span class=\\"h-icon-add\\"></span></div></div></td><td class=\\"date-item\\"><div class=\\"date-item-wrapper\\" style=\\"height: 111px;\\"><div class=\\"date-info\\"><span class=\\"lunar-date\\">
+                  廿四
+                </span> <span class=\\"solar-date\\">
+                  13
+                </span></div> <div class=\\"festival-info\\"><span class=\\"festival\\">
+                  
+                </span></div> <div class=\\"status\\"><span class=\\"h-icon-add\\"></span></div></div></td><td class=\\"date-item\\"><div class=\\"date-item-wrapper\\" style=\\"height: 111px;\\"><div class=\\"date-info\\"><span class=\\"lunar-date\\">
+                  廿五
+                </span> <span class=\\"solar-date\\">
+                  14
+                </span></div> <div class=\\"festival-info\\"><span class=\\"festival\\">
+                  
+                </span></div> <div class=\\"status\\"><span class=\\"h-icon-add\\"></span></div></div></td><td class=\\"date-item\\"><div class=\\"date-item-wrapper\\" style=\\"height: 111px;\\"><div class=\\"date-info\\"><span class=\\"lunar-date\\">
+                  廿六
+                </span> <span class=\\"solar-date\\">
+                  15
+                </span></div> <div class=\\"festival-info\\"><span class=\\"festival\\">
+                  
+                </span></div> <div class=\\"status\\"><span class=\\"h-icon-add\\"></span></div></div></td></tr><tr class=\\"date-wrapper\\"><td class=\\"date-item\\"><div class=\\"date-item-wrapper\\" style=\\"height: 111px;\\"><div class=\\"date-info\\"><span class=\\"lunar-date\\">
+                  廿七
+                </span> <span class=\\"solar-date\\">
+                  16
+                </span></div> <div class=\\"festival-info\\"><span class=\\"festival\\">
+                  
+                </span></div> <div class=\\"status\\"><span class=\\"h-icon-add\\"></span></div></div></td><td class=\\"date-item\\"><div class=\\"date-item-wrapper\\" style=\\"height: 111px;\\"><div class=\\"date-info\\"><span class=\\"lunar-date\\">
+                  廿八
+                </span> <span class=\\"solar-date\\">
+                  17
+                </span></div> <div class=\\"festival-info\\"><span class=\\"festival\\">
+                  
+                </span></div> <div class=\\"status\\"><span class=\\"h-icon-add\\"></span></div></div></td><td class=\\"date-item\\"><div class=\\"date-item-wrapper\\" style=\\"height: 111px;\\"><div class=\\"date-info\\"><span class=\\"lunar-date\\">
+                  廿九
+                </span> <span class=\\"solar-date\\">
+                  18
+                </span></div> <div class=\\"festival-info\\"><span class=\\"festival\\">
+                  
+                </span></div> <div class=\\"status\\"><span class=\\"h-icon-add\\"></span></div></div></td><td class=\\"date-item first-lunar-date\\"><div class=\\"date-item-wrapper\\" style=\\"height: 111px;\\"><div class=\\"date-info\\"><span class=\\"lunar-date\\">
+                  七月初一
+                </span> <span class=\\"solar-date\\">
+                  19
+                </span></div> <div class=\\"festival-info\\"><span class=\\"festival\\">
+                  
+                </span></div> <div class=\\"status\\"><span class=\\"h-icon-add\\"></span></div></div></td><td class=\\"date-item\\"><div class=\\"date-item-wrapper\\" style=\\"height: 111px;\\"><div class=\\"date-info\\"><span class=\\"lunar-date\\">
+                  初二
+                </span> <span class=\\"solar-date\\">
+                  20
+                </span></div> <div class=\\"festival-info\\"><span class=\\"festival\\">
+                  
+                </span></div> <div class=\\"status\\"><span class=\\"h-icon-add\\"></span></div></div></td><td class=\\"date-item\\"><div class=\\"date-item-wrapper\\" style=\\"height: 111px;\\"><div class=\\"date-info\\"><span class=\\"lunar-date\\">
+                  初三
+                </span> <span class=\\"solar-date\\">
+                  21
+                </span></div> <div class=\\"festival-info\\"><span class=\\"festival\\">
+                  
+                </span></div> <div class=\\"status\\"><span class=\\"h-icon-add\\"></span></div></div></td><td class=\\"date-item\\"><div class=\\"date-item-wrapper\\" style=\\"height: 111px;\\"><div class=\\"date-info\\"><span class=\\"lunar-date\\">
+                  初四
+                </span> <span class=\\"solar-date\\">
+                  22
+                </span></div> <div class=\\"festival-info\\"><span class=\\"festival\\">
+                  处暑
+                </span></div> <div class=\\"status\\"><span class=\\"h-icon-add\\"></span></div></div></td></tr><tr class=\\"date-wrapper\\"><td class=\\"date-item\\"><div class=\\"date-item-wrapper\\" style=\\"height: 111px;\\"><div class=\\"date-info\\"><span class=\\"lunar-date\\">
+                  初五
+                </span> <span class=\\"solar-date\\">
+                  23
+                </span></div> <div class=\\"festival-info\\"><span class=\\"festival\\">
+                  
+                </span></div> <div class=\\"status\\"><span class=\\"h-icon-add\\"></span></div></div></td><td class=\\"date-item\\"><div class=\\"date-item-wrapper\\" style=\\"height: 111px;\\"><div class=\\"date-info\\"><span class=\\"lunar-date\\">
+                  初六
+                </span> <span class=\\"solar-date\\">
+                  24
+                </span></div> <div class=\\"festival-info\\"><span class=\\"festival\\">
+                  
+                </span></div> <div class=\\"status\\"><span class=\\"h-icon-add\\"></span></div></div></td><td class=\\"date-item today\\"><div class=\\"date-item-wrapper\\" style=\\"height: 111px;\\"><div class=\\"date-info\\"><span class=\\"lunar-date\\">
+                  初七
+                </span> <span class=\\"solar-date\\">
+                  25
+                </span></div> <div class=\\"festival-info\\"><span class=\\"festival\\">
+                  七夕情人节
+                </span></div> <div class=\\"status\\"><span class=\\"h-icon-add\\"></span></div></div></td><td class=\\"date-item\\"><div class=\\"date-item-wrapper\\" style=\\"height: 111px;\\"><div class=\\"date-info\\"><span class=\\"lunar-date\\">
+                  初八
+                </span> <span class=\\"solar-date\\">
+                  26
+                </span></div> <div class=\\"festival-info\\"><span class=\\"festival\\">
+                  
+                </span></div> <div class=\\"status\\"><span class=\\"h-icon-add\\"></span></div></div></td><td class=\\"date-item\\"><div class=\\"date-item-wrapper\\" style=\\"height: 111px;\\"><div class=\\"date-info\\"><span class=\\"lunar-date\\">
+                  初九
+                </span> <span class=\\"solar-date\\">
+                  27
+                </span></div> <div class=\\"festival-info\\"><span class=\\"festival\\">
+                  
+                </span></div> <div class=\\"status\\"><span class=\\"h-icon-add\\"></span></div></div></td><td class=\\"date-item\\"><div class=\\"date-item-wrapper\\" style=\\"height: 111px;\\"><div class=\\"date-info\\"><span class=\\"lunar-date\\">
+                  初十
+                </span> <span class=\\"solar-date\\">
+                  28
+                </span></div> <div class=\\"festival-info\\"><span class=\\"festival\\">
+                  
+                </span></div> <div class=\\"status\\"><span class=\\"h-icon-add\\"></span></div></div></td><td class=\\"date-item\\"><div class=\\"date-item-wrapper\\" style=\\"height: 111px;\\"><div class=\\"date-info\\"><span class=\\"lunar-date\\">
+                  十一
+                </span> <span class=\\"solar-date\\">
+                  29
+                </span></div> <div class=\\"festival-info\\"><span class=\\"festival\\">
+                  
+                </span></div> <div class=\\"status\\"><span class=\\"h-icon-add\\"></span></div></div></td></tr><tr class=\\"date-wrapper\\"><td class=\\"date-item\\"><div class=\\"date-item-wrapper\\" style=\\"height: 111px;\\"><div class=\\"date-info\\"><span class=\\"lunar-date\\">
+                  十二
+                </span> <span class=\\"solar-date\\">
+                  30
+                </span></div> <div class=\\"festival-info\\"><span class=\\"festival\\">
+                  
+                </span></div> <div class=\\"status\\"><span class=\\"h-icon-add\\"></span></div></div></td><td class=\\"date-item\\"><div class=\\"date-item-wrapper\\" style=\\"height: 111px;\\"><div class=\\"date-info\\"><span class=\\"lunar-date\\">
+                  十三
+                </span> <span class=\\"solar-date\\">
+                  31
+                </span></div> <div class=\\"festival-info\\"><span class=\\"festival\\">
+                  
+                </span></div> <div class=\\"status\\"><span class=\\"h-icon-add\\"></span></div></div></td><td class=\\"date-item\\"><div class=\\"date-item-wrapper notCurrentMonth\\" style=\\"height: 111px;\\"><div class=\\"date-info\\"><span class=\\"lunar-date\\">
+                  十四
+                </span> <span class=\\"solar-date\\">
+                  1
+                </span></div> <div class=\\"festival-info\\"><span class=\\"festival\\">
+                  
+                </span></div> <div class=\\"status\\"><span class=\\"h-icon-add\\"></span></div></div></td><td class=\\"date-item\\"><div class=\\"date-item-wrapper notCurrentMonth\\" style=\\"height: 111px;\\"><div class=\\"date-info\\"><span class=\\"lunar-date\\">
+                  十五
+                </span> <span class=\\"solar-date\\">
+                  2
+                </span></div> <div class=\\"festival-info\\"><span class=\\"festival\\">
+                  中元节
+                </span></div> <div class=\\"status\\"><span class=\\"h-icon-add\\"></span></div></div></td><td class=\\"date-item\\"><div class=\\"date-item-wrapper notCurrentMonth\\" style=\\"height: 111px;\\"><div class=\\"date-info\\"><span class=\\"lunar-date\\">
+                  十六
+                </span> <span class=\\"solar-date\\">
+                  3
+                </span></div> <div class=\\"festival-info\\"><span class=\\"festival\\">
+                  
+                </span></div> <div class=\\"status\\"><span class=\\"h-icon-add\\"></span></div></div></td><td class=\\"date-item\\"><div class=\\"date-item-wrapper notCurrentMonth\\" style=\\"height: 111px;\\"><div class=\\"date-info\\"><span class=\\"lunar-date\\">
+                  十七
+                </span> <span class=\\"solar-date\\">
+                  4
+                </span></div> <div class=\\"festival-info\\"><span class=\\"festival\\">
+                  
+                </span></div> <div class=\\"status\\"><span class=\\"h-icon-add\\"></span></div></div></td><td class=\\"date-item\\"><div class=\\"date-item-wrapper notCurrentMonth\\" style=\\"height: 111px;\\"><div class=\\"date-info\\"><span class=\\"lunar-date\\">
+                  十八
+                </span> <span class=\\"solar-date\\">
+                  5
+                </span></div> <div class=\\"festival-info\\"><span class=\\"festival\\">
+                  
+                </span></div> <div class=\\"status\\"><span class=\\"h-icon-add\\"></span></div></div></td></tr></tbody></table></div>"
+`;

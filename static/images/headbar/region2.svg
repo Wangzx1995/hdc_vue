@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="54px" height="54px" viewBox="0 0 54 54" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>编组 8</title>
+    <defs>
+        <filter color-interpolation-filters="auto" id="filter-1">
+            <feColorMatrix in="SourceGraphic" type="matrix" values="0 0 0 0 0.094118 0 0 0 0 0.564706 0 0 0 0 1.000000 0 0 0 1.000000 0"></feColorMatrix>
+        </filter>
+        <filter color-interpolation-filters="auto" id="filter-2">
+            <feColorMatrix in="SourceGraphic" type="matrix" values="0 0 0 0 1.000000 0 0 0 0 0.584314 0 0 0 0 0.172549 0 0 0 1.000000 0"></feColorMatrix>
+        </filter>
+        <filter x="-53.3%" y="-53.3%" width="206.7%" height="206.7%" filterUnits="objectBoundingBox" id="filter-3">
+            <feOffset dx="0" dy="4" in="SourceAlpha" result="shadowOffsetOuter1"></feOffset>
+            <feGaussianBlur stdDeviation="2" in="shadowOffsetOuter1" result="shadowBlurOuter1"></feGaussianBlur>
+            <feColorMatrix values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.174097875 0" type="matrix" in="shadowBlurOuter1" result="shadowMatrixOuter1"></feColorMatrix>
+            <feMerge>
+                <feMergeNode in="shadowMatrixOuter1"></feMergeNode>
+                <feMergeNode in="SourceGraphic"></feMergeNode>
+            </feMerge>
+        </filter>
+    </defs>
+    <g id="3.0.1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="报警时空分析" transform="translate(-701.000000, -675.000000)">
+            <g id="编组-8" transform="translate(713.000000, 687.000000)">
+                <g id="编组-7">
+                    <g filter="url(#filter-1)" id="编组">
+                        <g filter="url(#filter-2)" id="地点">
+                            <g filter="url(#filter-3)">
+                                <rect id="矩形" fill="#000000" fill-rule="nonzero" opacity="0" x="0" y="0" width="30" height="30"></rect>
+                                <path d="M15.4875,30 C15.4875,30 3.75,18.913125 3.75,12.391875 C3.75,5.86875 7.663125,0 15.4875,0 C23.315625,0 27.22875,5.86875 27.22875,12.391875 C27.22875,18.913125 15.4875,30 15.4875,30 Z M15.4875,16.305 C17.5845374,16.305 19.5222799,15.1862439 20.5707986,13.3701563 C21.6193173,11.5540686 21.6193173,9.31655637 20.5707986,7.50046871 C19.5222799,5.68438106 17.5845374,4.565625 15.4875,4.565625 C12.2462789,4.565625 9.61875012,7.19315392 9.61875012,10.434375 C9.61875012,13.6755961 12.2462789,16.3031249 15.4875,16.303125 L15.4875,16.305 Z" id="形状" fill="#000000" fill-rule="nonzero"></path>
+                            </g>
+                        </g>
+                    </g>
+                    <circle id="椭圆形" fill="#FFFFFF" cx="15.5" cy="11.5" r="8"></circle>
+                </g>
+                <path d="M14.7476554,6.09893001 C15.0368145,5.913042 15.4219163,5.99675976 15.6078042,6.28591883 L15.6078042,6.28591883 L20.0695408,13.2263979 C20.1340806,13.3267931 20.168395,13.4436273 20.168395,13.5629779 C20.168395,13.9067326 19.8897266,14.1854009 19.545972,14.1854009 L19.545972,14.1854009 L10.6224988,14.1854009 C10.5031482,14.1854009 10.386314,14.1510865 10.2859189,14.0865467 C9.99675976,13.9006588 9.91304199,13.515557 10.09893,13.2263979 L10.09893,13.2263979 L14.5606666,6.28591883 C14.6088832,6.21091524 14.6726518,6.14714663 14.7476554,6.09893001 Z M15.1241501,11.7161321 C14.7803954,11.7161321 14.5017271,11.9948003 14.5017271,12.3385551 C14.5017271,12.6823099 14.7803954,12.9609782 15.1241501,12.9609782 C15.4679049,12.9609782 15.7465732,12.6823099 15.7465732,12.3385551 C15.7465732,11.9948003 15.4679049,11.7161321 15.1241501,11.7161321 Z M15.1241501,7.98159387 C14.7803954,7.98159387 14.5017271,8.26026213 14.5017271,8.60401691 L14.5017271,8.60401691 L14.5017271,10.471286 C14.5017271,10.8150408 14.7803954,11.093709 15.1241501,11.093709 C15.4679049,11.093709 15.7465732,10.8150408 15.7465732,10.471286 L15.7465732,10.471286 L15.7465732,8.60401691 C15.7465732,8.26026213 15.4679049,7.98159387 15.1241501,7.98159387 Z" id="Color" fill="#1890FF"></path>
+            </g>
+        </g>
+    </g>
+</svg>

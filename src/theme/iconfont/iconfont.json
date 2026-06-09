@@ -1,0 +1,58 @@
+{
+  "id": "4036157",
+  "name": "hdc",
+  "font_family": "iconfont",
+  "css_prefix_text": "icon-",
+  "description": "",
+  "glyphs": [
+    {
+      "icon_id": "1302200",
+      "name": "美元",
+      "font_class": "meiyuan",
+      "unicode": "e8a4",
+      "unicode_decimal": 59556
+    },
+    {
+      "icon_id": "727126",
+      "name": "投诉建议",
+      "font_class": "tousujianyi",
+      "unicode": "e60b",
+      "unicode_decimal": 58891
+    },
+    {
+      "icon_id": "1727600",
+      "name": "902投诉",
+      "font_class": "tousu",
+      "unicode": "e907",
+      "unicode_decimal": 59655
+    },
+    {
+      "icon_id": "18166108",
+      "name": "礼物,礼物盒,礼品",
+      "font_class": "gift-full",
+      "unicode": "e8b5",
+      "unicode_decimal": 59573
+    },
+    {
+      "icon_id": "487238",
+      "name": "警告",
+      "font_class": "jinggao",
+      "unicode": "e61b",
+      "unicode_decimal": 58907
+    },
+    {
+      "icon_id": "924666",
+      "name": "查询",
+      "font_class": "chaxun",
+      "unicode": "e603",
+      "unicode_decimal": 58883
+    },
+    {
+      "icon_id": "1135931",
+      "name": "查询",
+      "font_class": "search",
+      "unicode": "e610",
+      "unicode_decimal": 58896
+    }
+  ]
+}

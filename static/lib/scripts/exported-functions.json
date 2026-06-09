@@ -1,0 +1,17 @@
+[
+  "_malloc",
+  "_free",
+  "_md5",
+  "_MD5_Init",
+  "_MD5_Update",
+  "_MD5_Final",
+
+  "_extract",
+  "_archive_read_new",
+  "_archive_prepare",
+  "_archive_read_open1",
+  "_archive_read_free",
+  "_archive_read_next_header",
+  "_archive_error_string",
+  "_archive_entry_pathname"
+]

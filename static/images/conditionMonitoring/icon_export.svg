@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="36px" height="36px" viewBox="0 0 36 36" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>icon_导出日志</title>
+    <defs>
+        <filter color-interpolation-filters="auto" id="filter-1">
+            <feColorMatrix in="SourceGraphic" type="matrix" values="0 0 0 0 1.000000 0 0 0 0 1.000000 0 0 0 0 1.000000 0 0 0 1.000000 0"></feColorMatrix>
+        </filter>
+    </defs>
+    <g id="运维平台" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="运维巡检" transform="translate(-1598.000000, -3847.000000)">
+            <g id="icon_导出日志" transform="translate(1598.000000, 3847.000000)">
+                <circle id="椭圆形" fill="#8A8A8A" cx="18" cy="18" r="18"></circle>
+                <g filter="url(#filter-1)" id="通用图标/辅形-箭头-右-(导出)">
+                    <g transform="translate(11.000000, 9.000000)" id="编组" fill="#000000">
+                        <path d="M15,0 L15,3.77777778 L13.125,3.77777778 L13.125,1.887 L1.875,1.88888889 L1.875,15.1111111 L13.125,15.1111111 L13.125,13.2222222 L15,13.2222222 L15,17 L0,17 L0,0 L15,0 Z M9.34229194,3.79342609 L14.9672919,8.51564831 L9.34229194,13.2378705 L9.34229194,9.46009276 L3.71729194,9.46009276 L3.71729194,7.57120387 L9.34229194,7.57120387 L9.34229194,3.79342609 Z" id="形状结合"></path>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

@@ -1,0 +1,160 @@
+.box,
+.box-color {
+  background-color: @white-color;
+  position: relative;
+  margin-bottom: 1.5rem;
+}
+.dark .modal .box,
+.black .modal .box,
+.grey .modal .box{
+	background-color: lighten( @black-color, @color-lt-percent );
+}
+
+.box-header{
+	position: relative;
+	padding: 1rem;
+	h2,
+	h3,
+	h4{
+		margin: 0;
+		font-size: 18px;
+		line-height: 1;
+	}
+	h3{
+		font-size: 16px;
+	}
+	h4{
+		font-size: 15px;
+	}
+	small{
+		display: block;
+		margin-top: 4px;
+		opacity: 0.6;
+	}
+}
+
+.box-body{
+	padding: 1rem;
+}
+
+.box-footer{
+	padding: 1rem;
+}
+
+.box-divider{
+	border-top:1px solid @border-color;
+	margin: 0 16px;
+	height: 0;
+}
+
+.box-tool{
+	position: absolute;
+	right: 16px;
+	top: 14px
+}
+
+.box-shadow {
+	&,
+  .box,
+  .box-color{
+		.box-shadow(0 0 10px rgba(0, 0, 0, 0.4), 0 0 10px rgba(0, 0, 0, 0.4));
+	}
+  &.app-wrapper {
+    box-shadow: none;
+  }
+}
+.box-shadow-z0 {
+	&,
+  .box,
+  .box-color,
+  .box-shadow{
+		.box-shadow(0 0px 1px rgba(0,0,0,0.15));
+	}
+}
+.box-shadow-z1 {
+	&,
+  .box,
+  .box-color,
+  .box-shadow{
+  		.box-shadow(0 1px 2px rgba(0,0,0,0.1),0 -1px 0px rgba(0,0,0,0.02));
+	}
+}
+.box-shadow-z2 {
+	&,
+  .box,
+  .box-color,
+  .box-shadow{
+		.box-shadow(0 1px 2px rgba(0,0,0,0.15),0 -1px 0px rgba(0,0,0,0.02));
+	}
+}
+.box-shadow-z3 {
+	&,
+  .box,
+  .box-color,
+  .box-shadow{
+		.box-shadow(0 2px 4px rgba(0,0,0,0.1),0 -1px 0px rgba(0,0,0,0.02));
+	}
+}
+
+.box-shadow-z4 {
+	&,
+  .box,
+  .box-color,
+  .box-shadow{
+		.box-shadow(0 2px 5px rgba(0,0,0,0.26),0 -1px 0px rgba(0,0,0,0.02));
+	}
+}
+
+.box-shadow-z5 {
+	&,
+  .box,
+  .box-color,
+  .box-shadow{
+		.box-shadow(0 1px 10px rgba(0,0,0,0.08),0 -1px 0px rgba(0,0,0,0.02));
+	}
+}
+
+.box-shadow-z10 {
+  &,
+  .box,
+  .box-color,
+  .box-shadow,
+  .ivu-select-dropdown{
+    .box-shadow(0 0 1px rgba(57,70,78,.15),0 10px 55px -4px rgba(57,70,78,.20));
+	}
+}
+
+.box-shadow-z20 {
+  &,
+  .box,
+  .box-color,
+  .box-shadow,
+  .ivu-select-dropdown{
+    .box-shadow(0 0 1px rgba(57,70,78,.15),0 20px 55px -8px rgba(57,70,78,.25));
+	}
+}
+
+.box-radius-1x {
+	&,
+  	.box,
+  	.box-color{
+		border-radius: 2px;
+	}
+}
+.box-radius-2x {
+	&,
+  	.box,
+  	.box-color{
+		border-radius: 3px;
+	}
+}
+.box-radius-3x {
+	&,
+  	.box,
+  	.box-color{
+		border-radius: 4px;
+	}
+}
+.box .box {
+  box-shadow: none !important;
+}

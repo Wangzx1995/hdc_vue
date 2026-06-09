@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="16px" height="20px" viewBox="0 0 16 20" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>SSD_异常</title>
+    <g id="运维平台V2.11" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="画板" transform="translate(-297.000000, -244.000000)">
+            <g id="SSD_异常" transform="translate(297.000000, 244.000000)">
+                <rect id="矩形" fill="#FA686A" x="0" y="0" width="16" height="20" rx="1"></rect>
+                <rect id="矩形" fill="#FFFFFF" x="2" y="17" width="12" height="1" rx="0.5"></rect>
+                <text id="SSD" font-family="MicrosoftYaHei, Microsoft YaHei" font-size="7" font-weight="bold" fill="#FFFFFF">
+                    <tspan x="1" y="12">SSD</tspan>
+                </text>
+            </g>
+        </g>
+    </g>
+</svg>

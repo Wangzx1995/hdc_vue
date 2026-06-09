@@ -1,0 +1,39 @@
+{
+  "_from": "@hui-pro/tree-select",
+  "_id": "@hui-pro/tree-select@2.0.0-beta.2",
+  "_inBundle": false,
+  "_integrity": "sha1-fiPvlV9aUQ28rJ7vr9S5EUr8W5I=",
+  "_location": "/@hui-pro/tree-select",
+  "_phantomChildren": {},
+  "_requested": {
+    "type": "tag",
+    "registry": true,
+    "raw": "@hui-pro/tree-select",
+    "name": "@hui-pro/tree-select",
+    "escapedName": "@hui-pro%2ftree-select",
+    "scope": "@hui-pro",
+    "rawSpec": "",
+    "saveSpec": null,
+    "fetchSpec": "latest"
+  },
+  "_requiredBy": [
+    "#DEV:/",
+    "#USER"
+  ],
+  "_resolved": "http://af.hikvision.com.cn:80/artifactory/api/npm/npm-down/@hui-pro/tree-select/-/@hui-pro/tree-select-2.0.0-beta.2.tgz",
+  "_shasum": "7e23ef955f5a510dbcac9eefafd4b9114afc5b92",
+  "_spec": "@hui-pro/tree-select",
+  "_where": "D:\\hdc_vue",
+  "author": {
+    "name": "xuzilong"
+  },
+  "bundleDependencies": false,
+  "dependencies": {
+    "@hui-pro/theme": "^2.0.0-beta.1"
+  },
+  "deprecated": false,
+  "description": "",
+  "main": "index.js",
+  "name": "@hui-pro/tree-select",
+  "version": "2.0.0-beta.2"
+}

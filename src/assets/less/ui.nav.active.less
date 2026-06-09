@@ -1,0 +1,41 @@
+.active-variant(@parent, @bg, @color) {
+  .nav-active-@{parent}{
+  	.nav-link.active,
+  	.nav > li.active > a{
+  		color: @color !important;
+		  background-color: @bg !important;
+  	}
+  }
+}
+
+.active-variant(dark, @dark-color, @dark-text);
+.active-variant(black, @black-color, @black-text);
+.active-variant(primary, @primary-color, @primary-text);
+.active-variant(accent, @accent-color, @accent-text);
+.active-variant(warn, @warn-color, @warn-text);
+.active-variant(success, @success-color, @success-text);
+.active-variant(info, @info-color, @info-text);
+.active-variant(warning, @warning-color, @warning-text);
+.active-variant(error, @error-color, @error-text);
+.active-variant(light, @light-color, @light-text);
+.active-variant(white, @white-color, @dark-black);
+
+.active-variant(red, @red, @dark-white);
+.active-variant(pink, @pink, @dark-white);
+.active-variant(purple, @purple, @dark-white);
+.active-variant(deep-purple, @deep-purple, @dark-white);
+.active-variant(indigo, @indigo, @dark-white);
+.active-variant(blue, @blue, @dark-white);
+.active-variant(light-blue, @light-blue, @dark-white);
+.active-variant(cyan, @cyan, @dark-white);
+.active-variant(teal, @teal, @dark-white);
+.active-variant(green, @green, @dark-white);
+.active-variant(light-green, @light-green, @dark-white);
+.active-variant(lime, @lime, @dark-white);
+.active-variant(yellow, @yellow, @dark-black);
+.active-variant(amber, @amber, @dark-white);
+.active-variant(orange, @orange, @dark-white);
+.active-variant(deep-orange, @deep-orange, @dark-white);
+.active-variant(brown, @brown, @dark-white);
+.active-variant(blue-grey, @blue-grey, @dark-white);
+.active-variant(grey, @grey-color, @dark-white);

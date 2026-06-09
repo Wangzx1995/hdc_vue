@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="16px" height="15px" viewBox="0 0 16 15" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>通用图标/下载插件</title>
+    <g id="2.8.0评审" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" fill-opacity="0.701960784">
+        <g id="个人中心" transform="translate(-123.000000, -415.000000)" fill="#000000">
+            <g id="编组" transform="translate(119.000000, 410.000000)">
+                <g id="形状结合" transform="translate(4.000000, 5.000000)">
+                    <path d="M6,13 L6,14 L4.542,14 C4.266,14 4.042,13.776 4.042,13.5 C4.042,13.224 4.266,13 4.542,13 L6,13 Z M15,1 L15,8 L14,8 L14,1 L1,1 L1,9 L8,9 L8,10 L1,10 L1,11 L6,11 L6,12 L1,12 C0.448,12 0,11.552 0,11 L0,1 C0,0.448 0.448,0 1,0 L14,0 C14.552,0 15,0.448 15,1 Z M8,12 L8,14 L15,14 L15,12 L16,12 L16,15 L7,15 L7,12 L8,12 Z M12.125,7.003799 L12.125,10.6369351 L14,10.6369351 L11.5,13.003799 L9,10.6369351 L10.875,10.6369351 L10.875,7.003799 L12.125,7.003799 Z"></path>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

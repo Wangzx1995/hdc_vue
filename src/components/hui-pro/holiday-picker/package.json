@@ -1,0 +1,41 @@
+{
+  "_from": "@hui-pro/holiday-picker@^2.0.0-beta.2",
+  "_id": "@hui-pro/holiday-picker@2.0.0-beta.2",
+  "_inBundle": false,
+  "_integrity": "sha1-OXdamHDTQ1a0BGOC9P4d6vmRsDI=",
+  "_location": "/@hui-pro/holiday-picker",
+  "_phantomChildren": {},
+  "_requested": {
+    "type": "range",
+    "registry": true,
+    "raw": "@hui-pro/holiday-picker@^2.0.0-beta.2",
+    "name": "@hui-pro/holiday-picker",
+    "escapedName": "@hui-pro%2fholiday-picker",
+    "scope": "@hui-pro",
+    "rawSpec": "^2.0.0-beta.2",
+    "saveSpec": null,
+    "fetchSpec": "^2.0.0-beta.2"
+  },
+  "_requiredBy": [
+    "#USER",
+    "/"
+  ],
+  "_resolved": "http://af.hikvision.com.cn:80/artifactory/api/npm/npm-isms/@hui-pro/holiday-picker/-/@hui-pro/holiday-picker-2.0.0-beta.2.tgz",
+  "_shasum": "39775a9870d34356b4046382f4fe1deaf991b032",
+  "_spec": "@hui-pro/holiday-picker@^2.0.0-beta.2",
+  "_where": "E:\\oms",
+  "author": {
+    "name": "jiangyan6"
+  },
+  "bundleDependencies": false,
+  "dependencies": {
+    "@hui-pro/ellipsis": "^2.0.0-beta.2",
+    "@hui-pro/theme": "^2.0.0-beta.1"
+  },
+  "deprecated": false,
+  "description": "节假日配置控件",
+  "gitHead": "98cb971033897ecc2fa165b4441a485ebf021613",
+  "main": "index.js",
+  "name": "@hui-pro/holiday-picker",
+  "version": "2.0.0-beta.2"
+}

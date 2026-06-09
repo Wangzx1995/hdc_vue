@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="28px" height="28px" viewBox="0 0 28 28" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>行驶</title>
+    <defs>
+        <circle id="path-1" cx="10" cy="10" r="10"></circle>
+        <filter x="-35.0%" y="-25.0%" width="170.0%" height="170.0%" filterUnits="objectBoundingBox" id="filter-2">
+            <feOffset dx="0" dy="2" in="SourceAlpha" result="shadowOffsetOuter1"></feOffset>
+            <feGaussianBlur stdDeviation="2" in="shadowOffsetOuter1" result="shadowBlurOuter1"></feGaussianBlur>
+            <feComposite in="shadowBlurOuter1" in2="SourceAlpha" operator="out" result="shadowBlurOuter1"></feComposite>
+            <feColorMatrix values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.248263699 0" type="matrix" in="shadowBlurOuter1"></feColorMatrix>
+        </filter>
+    </defs>
+    <g id="消防支队需求" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="画板" transform="translate(-602.000000, -358.000000)">
+            <g id="行驶" transform="translate(606.000000, 360.000000)">
+                <g id="椭圆形备份-2">
+                    <use fill="black" fill-opacity="1" filter="url(#filter-2)" xlink:href="#path-1"></use>
+                    <circle stroke="#FFFFFF" stroke-width="1" stroke-linejoin="square" fill="#5FAF66" fill-rule="evenodd" cx="10" cy="10" r="9.5"></circle>
+                </g>
+                <path d="M13.2208881,5.14416874 L12.2384256,15.844745 C12.2175188,16.0724534 12.0152308,16.2401674 11.7866027,16.2193447 C11.6664851,16.2084048 11.5570612,16.1460408 11.4867337,16.0484405 L9.1955149,12.86869 C9.05749574,12.6771472 8.84404139,12.5532839 8.60867259,12.5281572 L4.59231493,12.0993915 C4.36404044,12.0750221 4.19882251,11.8709582 4.22329034,11.643602 C4.23602333,11.5252865 4.29925291,11.4181474 4.39685044,11.3495137 L13.2208881,5.14416874 Z" id="path-1" fill="#FFFFFF" transform="translate(8.720888, 10.682630) rotate(-29.000000) translate(-8.720888, -10.682630) "></path>
+            </g>
+        </g>
+    </g>
+</svg>

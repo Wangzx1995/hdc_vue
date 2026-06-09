@@ -1,0 +1,41 @@
+{
+  "_from": "@hui-pro/theme@^2.0.0-beta.1",
+  "_id": "@hui-pro/theme@2.0.0-beta.1",
+  "_inBundle": false,
+  "_integrity": "sha1-hPM3vIFUWsg40FEz5CUrHgKkrHU=",
+  "_location": "/@hui-pro/theme",
+  "_phantomChildren": {},
+  "_requested": {
+    "type": "range",
+    "registry": true,
+    "raw": "@hui-pro/theme@^2.0.0-beta.1",
+    "name": "@hui-pro/theme",
+    "escapedName": "@hui-pro%2ftheme",
+    "scope": "@hui-pro",
+    "rawSpec": "^2.0.0-beta.1",
+    "saveSpec": null,
+    "fetchSpec": "^2.0.0-beta.1"
+  },
+  "_requiredBy": [
+    "/@hui-pro/ellipsis",
+    "/@hui-pro/holiday-picker"
+  ],
+  "_resolved": "http://af.hikvision.com.cn:80/artifactory/api/npm/npm-isms/@hui-pro/theme/-/@hui-pro/theme-2.0.0-beta.1.tgz",
+  "_shasum": "84f337bc81545ac838d05133e4252b1e02a4ac75",
+  "_spec": "@hui-pro/theme@^2.0.0-beta.1",
+  "_where": "E:\\oms\\node_modules\\@hui-pro\\holiday-picker",
+  "author": {
+    "name": "chenguanbin"
+  },
+  "bundleDependencies": false,
+  "dependencies": {
+    "sass": "^1.19.0",
+    "sass-loader": "^7.1.0"
+  },
+  "deprecated": false,
+  "description": "",
+  "gitHead": "25e15a632c68e6ca2faaad50f663dc9f7209cf08",
+  "main": "index.scss",
+  "name": "@hui-pro/theme",
+  "version": "2.0.0-beta.1"
+}

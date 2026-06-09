@@ -1,0 +1,66 @@
+{
+  "_from": "@hui-pro/utils@^2.0.0-beta.2",
+  "_id": "@hui-pro/utils@2.0.0-beta.4",
+  "_inBundle": false,
+  "_integrity": "sha1-+Ez3pVLA1AwsuFw9nr2iwvY3QVY=",
+  "_location": "/@hui-pro/utils",
+  "_phantomChildren": {},
+  "_requested": {
+    "type": "range",
+    "registry": true,
+    "raw": "@hui-pro/utils@^2.0.0-beta.2",
+    "name": "@hui-pro/utils",
+    "escapedName": "@hui-pro%2futils",
+    "scope": "@hui-pro",
+    "rawSpec": "^2.0.0-beta.2",
+    "saveSpec": null,
+    "fetchSpec": "^2.0.0-beta.2"
+  },
+  "_requiredBy": [
+    "/@hui-pro/ellipsis"
+  ],
+  "_resolved": "http://af.hikvision.com.cn:80/artifactory/api/npm/npm-isms/@hui-pro/utils/-/@hui-pro/utils-2.0.0-beta.4.tgz",
+  "_shasum": "f84cf7a552c0d40c2cb85c3d9ebda2c2f6374156",
+  "_spec": "@hui-pro/utils@^2.0.0-beta.2",
+  "_where": "E:\\oms\\node_modules\\@hui-pro\\ellipsis",
+  "author": {
+    "name": "gaomingjun"
+  },
+  "bundleDependencies": false,
+  "dependencies": {
+    "moment": "^2.24.0",
+    "qs": "^6.5.2",
+    "resize-observer-polyfill": "^1.5.1"
+  },
+  "deprecated": false,
+  "description": "utils",
+  "devDependencies": {
+    "@babel/cli": "^7.5.0",
+    "@babel/core": "^7.5.0",
+    "@babel/preset-env": "^7.5.0",
+    "babel-plugin-module-resolver": "^3.2.0",
+    "cross-env": "^5.2.0",
+    "deepmerge": "^4.0.0",
+    "fs-extra": "^8.1.0",
+    "glob": "^7.1.3",
+    "prettier-eslint": "^9.0.0"
+  },
+  "files": [
+    "src",
+    "lib",
+    "es",
+    "list.js"
+  ],
+  "main": "es/index.js",
+  "name": "@hui-pro/utils",
+  "peerDependencies": {
+    "core-js": "^3.4.5"
+  },
+  "scripts": {
+    "build": "node bin/generateIndex && node bin/cross-prod && npm run build:lib && lerna bootstrap",
+    "build:lib": "node bin/build",
+    "dev": "node bin/generateIndex && node bin/cross-dev && lerna bootstrap",
+    "prod": "node bin/generateIndex && node bin/cross-prod && lerna bootstrap"
+  },
+  "version": "2.0.0-beta.4"
+}

@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="16px" height="20px" viewBox="0 0 16 20" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>SSD1_异常</title>
+    <g id="运维平台V2.11" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="画板" transform="translate(-321.000000, -244.000000)">
+            <g id="SSD1_异常" transform="translate(321.000000, 244.000000)">
+                <rect id="矩形" fill="#FA686A" x="0" y="0" width="16" height="20" rx="1"></rect>
+                <text id="SSD" font-family="MicrosoftYaHei, Microsoft YaHei" font-size="7" font-weight="bold" fill="#FFFFFF">
+                    <tspan x="1" y="8">SSD</tspan>
+                </text>
+                <g id="编组-4" transform="translate(6.000000, 11.000000)" fill="#FFFFFF">
+                    <rect id="矩形" x="1.33333333" y="0.666666667" width="1.33333333" height="6"></rect>
+                    <polygon id="矩形" transform="translate(1.333333, 0.666667) rotate(90.000000) translate(-1.333333, -0.666667) " points="0.666666667 -0.666666667 2 -0.666666667 2 2 0.666666667 2"></polygon>
+                    <polygon id="矩形" transform="translate(2.000000, 6.000000) rotate(90.000000) translate(-2.000000, -6.000000) " points="1.33333333 4 2.66666667 4 2.66666667 8 1.33333333 8"></polygon>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

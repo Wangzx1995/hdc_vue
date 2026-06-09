@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="18px" height="18px" viewBox="0 0 18 18" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>通用图标/停止</title>
+    <defs>
+        <filter color-interpolation-filters="auto" id="filter-1">
+            <feColorMatrix in="SourceGraphic" type="matrix" values="0 0 0 0 1.000000 0 0 0 0 1.000000 0 0 0 0 1.000000 0 0 0 1.000000 0"></feColorMatrix>
+        </filter>
+    </defs>
+    <g id="2.8.0" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="画板" transform="translate(-534.000000, -4112.000000)">
+            <g id="停止" transform="translate(531.000000, 4109.000000)" filter="url(#filter-1)">
+                <g transform="translate(3.000000, 3.000000)">
+                    <circle id="椭圆形" stroke="#FFFFFF" cx="9" cy="9" r="8.5"></circle>
+                    <rect id="矩形" fill="#FFFFFF" x="5" y="5" width="8" height="8"></rect>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>
